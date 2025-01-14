@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "cat_netflix_lab_dio": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7279",
+      "launchBrowser": false
+    }
+  }
+}
