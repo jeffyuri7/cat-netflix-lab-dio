@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.Logging;
 
-namespace cat_netflix_lab_dio
+namespace fnPostDataStorage
 {
     public class fnPostDataStorage
     {

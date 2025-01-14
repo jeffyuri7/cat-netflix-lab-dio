@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "cat_netflix_lab_dio": {
+    "fnPostDataStorage": {
       "commandName": "Project",
       "commandLineArgs": "--port 7279",
       "launchBrowser": false
